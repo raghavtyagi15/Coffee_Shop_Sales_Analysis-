@@ -13,7 +13,8 @@ Customer Behavior-
 1. Order Trends by Day: Monday through Friday consistently saw higher order volumes compared to weekends. The busiest hours were between 9:00 AM and 11:00 AM, aligning with the typical morning rush when customers are likely purchasing their first cup of coffee for the day.
 
 2. Product Preferences: The top five best-selling products were Barista Espresso, Brewed Chai Tea, and Hot Chocolate. These products reflect a strong customer preference for hot beverages, particularly those that offer a premium experience.
-Preferred Sizes: Regular-sized products were the most commonly purchased, indicating that customers prefer a standard serving size over smaller or larger options.
+
+3. Preferred Sizes: Regular-sized products were the most commonly purchased, indicating that customers prefer a standard serving size over smaller or larger options.
 
 
 Product and Category Insights-
